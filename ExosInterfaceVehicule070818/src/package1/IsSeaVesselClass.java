@@ -1,6 +1,7 @@
 package package1;
 
 // La classe IsSeaVesselClass hérite dee classe Vehicle et elle implémente l'interface IsSeaVessel
+
 public class IsSeaVesselClass extends Vehicle implements IsSeaVessel {
 	
 	//Attributs de la classe IsSeaVesselClass
