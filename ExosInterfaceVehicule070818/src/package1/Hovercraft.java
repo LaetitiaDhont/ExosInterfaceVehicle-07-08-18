@@ -19,7 +19,7 @@ public class Hovercraft extends IsLandVehicleClass implements IsLandVehicle, IsS
 	}
 	
 	public void enterLand() {
-		System.out.println("Je glisse sur terre.");
+		System.out.println("Je glisse sur terre !");
 	}
 	
 	public void enterSea() {

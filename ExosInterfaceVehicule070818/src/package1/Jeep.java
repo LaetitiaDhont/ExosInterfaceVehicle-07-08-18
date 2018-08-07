@@ -8,6 +8,7 @@ public class Jeep extends IsLandVehicleClass implements IsLandVehicle {
 // Flêche en pointillés dans Star UML signifie implements
 
 	// Méthode de la classe 
+	
 	public void soundHorn() {
 		System.out.println("COIN COIN !!");
 	}

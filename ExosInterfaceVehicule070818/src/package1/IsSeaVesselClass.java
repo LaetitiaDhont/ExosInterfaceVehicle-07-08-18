@@ -5,9 +5,11 @@ package package1;
 public class IsSeaVesselClass extends Vehicle implements IsSeaVessel {
 	
 	//Attributs de la classe IsSeaVesselClass
+	
 	int displacement;
 
 	// Méthodes de la classe 
+	
 	public int getDisplacement() {
 		return displacement;
 	}

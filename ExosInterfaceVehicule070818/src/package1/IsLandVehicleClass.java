@@ -1,9 +1,10 @@
 package package1;
 
 public class IsLandVehicleClass extends Vehicle implements IsLandVehicle {
+	
 // Extends pour l'héritage entre deux classes et implements pour une classe avec une interface
-// La classe IsLandVesselClass hérite de la classe Vehicle 
-// La classe IsLandVesselClass implémente l'interface IsLandVessel
+// La classe IsLandVehicleClass hérite de la classe Vehicle 
+// La classe IsLandVehicleClass implémente l'interface IsLandVehicle
 	
 	//Attribut de la classe
 	int numWheels;
